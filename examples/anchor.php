@@ -1,6 +1,6 @@
 <?php
 
-use SSD\RegularExpression\Factory;
+use SSD\RegexKit\Factory;
 
 
 echo Factory::anchor(
