@@ -1,6 +1,6 @@
 # Regex Kit
 
-Regex Kit : purpose-made handfull of methods for easy string replacements
+Regex Kit : purpose-made handfull of methods for easy string replacement
 
 
 ## Usage
