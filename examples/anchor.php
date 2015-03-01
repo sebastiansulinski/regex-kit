@@ -6,9 +6,8 @@ use SSD\RegexKit\Factory;
 
 
 echo Factory::anchor(
-    'Visit http://ssdtutorials.com for more info.',
+    'Visit documentation at http://github.com or for more info use http://google.com',
     [
-        'target' => '_blank',
-        'title' => 'External link'
+        'target' => '_blank'
     ]
 );
