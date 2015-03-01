@@ -1,5 +1,7 @@
 <?php
 
+require "../vendor/autoload.php";
+
 use SSD\RegexKit\Factory;
 
 
