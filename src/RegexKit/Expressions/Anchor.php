@@ -17,7 +17,7 @@ class Anchor extends Expression implements Contract {
     protected function regex()
     {
 
-        return '/(?:http:|https:|ftp:|file:)?\/\/([^\s]+)/i';
+        return '/(?:http:|https:|ftp:|file:)?\/\/([\A-Zda-z\.-\_\/]+[^\.\s\]+\[^\,\s]+)/i';
 
     }
 
